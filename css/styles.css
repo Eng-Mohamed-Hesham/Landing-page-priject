@@ -126,7 +126,9 @@ section {
     .landing__container {
         max-width: 50em;
         padding: 4em;
-    }
+    }}
+	
+	
     @media only screen and (max-width: 600px) {
         .navbar__menu li {
             display:block;
