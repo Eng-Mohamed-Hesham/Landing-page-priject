@@ -133,6 +133,7 @@ section {
         .navbar__menu li {
             display:block;
             width: 100%;
+		text-align : center;
         }
         
     }
